@@ -1,5 +1,5 @@
 ## Hi, I'm Oluwafunmibi 👋  
-**Data Analyst | Python • SQL • Tableau • Power BI**
+**Data Analyst | Python • SQL • Tableau • Power BI • Excel**
 
 ---
 
